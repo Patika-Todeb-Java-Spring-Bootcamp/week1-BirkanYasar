@@ -1,4 +1,4 @@
-## Birinci Hafta Ödevleri
+## Birinci Hafta Ödevleri :coffee:
 ### Birinci hafta dersten sonraki verilen ödevleri içeren repo
 > Immutable bir car sınıfı oluşuturuldu. Istenilen attribute'lar eklendi.
 [Birinci Ödev](https://github.com/Patika-Todeb-Java-Spring-Bootcamp/birinciHaftaOdevleri/blob/main/car.java)
