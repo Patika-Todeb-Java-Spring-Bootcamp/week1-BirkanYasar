@@ -4,8 +4,7 @@ import java.awt.Color;
 import java.util.Date;
 
 public final class car {
-	
-	
+		
 	private enum model {
 		TOYOTA,
 		FORD
