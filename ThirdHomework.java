@@ -81,7 +81,7 @@ public class ThirdHomework implements Runnable {
 		t1.start();
 		
 	}
-
-
 	
 }
+
+@author BirkanYasar
